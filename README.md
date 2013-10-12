@@ -33,7 +33,7 @@ Experience
 ***
 
 ####Lean Software Factory - Software Engineer
-**June 2013 - Present
+**June 2013 - Present**
 
 * Full stack software developer working on external and internal projects
 
