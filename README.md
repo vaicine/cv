@@ -1,9 +1,9 @@
-**Last updated:** 15th May 2013
+**Last updated:** 12th October 2013
 ***
 
 James Lewis Harries
 ========
-**Address:** 6 Farnell Road, Staines, Middx, TW18 4HT
+**Address:** 6 Farnell Road, Staines, TW18 4HT
 
 **Email:** <james@designfox.org> | **Web:** [designfox.org](http://www.designfox.org) | **Github:** [github.com/vaicine](http://www.github.com/vaicine)
 
@@ -11,29 +11,41 @@ James Lewis Harries
 About Me
 --------
 ***
-Accomplished web developer with a thorough understanding of developing online businesses. Extensive experience working in fast-paced startup environments, using agile methodologies, scrum, kanban, GIT/SVN source control, TDD, continuous integration, AB/Split testing. Strong experiencing managing small development teams, and producing technical architecture proposals. Strives to be at the forefront of new technology, staying up-to-date with best practices and latest technologies.
+Accomplished software developer with a thorough understanding of online businesses. Extensive experience working in fast-paced startup environments, using agile methodologies, scrum, kanban, GIT/SVN source control, TDD/BDD, continuous integration, and AB/Split testing.
+
+Strong experiencing managing small development teams, and producing technical architecture proposals. Passionate about new technologies and keeping up to date with best practises and new development tools.
 
 Technical Skills
 --------
 ***
 | Backend             | Frontend                         | Tools    
 | ------------------- | -------------------------------- | -------- 
-| Ruby, Ruby On Rails | OOP Javascript, Coffeescript     | Github
-| PHP, CakePHP        | jQuery, Jade, Backbone.js        | SVN 
-| MySQL, Postgres     | HTML5, HAML                      | Heroku
-| Redis, Mongodb      | CSS3, SASS, Compass              | Mac OS
-| Rspec, Cucumber     | Jasmine                          | Linux
-| Capybara, Selenium  | Responsive design, mobile design | Photoshop 
-| Nginx, Apache       |                                  | Illustrator
+| Ruby, Ruby On Rails | HTML5, HAML, Slim, ERB           | Github, SVN
+| PHP, Python, .net   | CSS3, SASS, SCSS, LESS, Compass  | Mac OS, Linux
+| MySQL, Postgres     | Javascript, Coffeescript         | Heroku, Engineyard
+| Redis, Mongodb      | jQuery, Backbone.js, Angular     | Tddium, CircleCI, Travis
+| Rspec, Cucumber     | Jasmine, Mocha                   | Photoshop, Illustrator
+| Capybara, Selenium  | Responsive design                | 
+| Nginx, Apache       | Mobile app/web design            | 
 
 Experience
 --------
 ***
 
-####Kelkoo UK/Kelisto ES - Web Developer 
+####Lean Software Factory - Software Engineer
+**June 2013 - Present
+
+* Full stack software developer working on external and internal projects
+
+**Skills used:**
+Agile, Kanban, Scrum, Continuous Integration, Github, Ruby on Rails, Javascript, Coffeescript, JSON, AJAX, jQuery, HTML5, HAML, Slim, CSS3, SASS, Compass, MongoDB, Mysql, Rspec, Jasmine, Capybara, REST, SOAP, Heroku, Engineyard, Nginx, Photoshop, Illustrator, Responsive design
+
+####Kelkoo UK/Kelisto ES - Software Engineer
 **May 2012 - June 2013** - *(1 year, 1 month)*
 
-* Managing all technical aspects surrounding the creation of new online businesses, including frontend and backend coding of website and web services, as well as taking ownership of business intelligence/analytics, technical monitoring and maintenance
+* Managing the technical aspects surrounding the creation and development of new online businesses, including frontend and backend coding of website and web services.
+
+* Taking ownership of business intelligence/analytics, technical monitoring and maintenance
 
 * Building bespoke internal monitoring systems and dashboards, using external API feeds from services such as mixpanel, mongoHQ, github, tddium, heroku, and others.
 
