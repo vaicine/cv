@@ -35,7 +35,7 @@ Experience
 ####Lean Software Factory - Software Engineer
 **June 2013 - Present**
 
-* Full stack software developer working on external and internal projects
+* Full stack software development working on external and internal projects
 
 **Skills used:**
 Agile, Kanban, Scrum, Continuous Integration, Github, Ruby on Rails, Javascript, Coffeescript, JSON, AJAX, jQuery, HTML5, HAML, Slim, CSS3, SASS, Compass, MongoDB, Mysql, Rspec, Jasmine, Capybara, REST, SOAP, Heroku, Engineyard, Nginx, Photoshop, Illustrator, Responsive design
