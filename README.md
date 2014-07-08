@@ -5,7 +5,7 @@ James Lewis Harries
 ========
 **Address:** 6 Farnell Road, Staines, TW18 4HT
 
-**Email:** <james@designfox.org> | **Web:** [designfox.org](http://www.designfox.org) | **Github:** [github.com/vaicine](http://www.github.com/vaicine)
+**Email:** <james@vaicine.com> | **Web:** [vaicine.com](http://www.vaicine.com) | **Github:** [github.com/vaicine](http://www.github.com/vaicine)
 
 
 About Me
