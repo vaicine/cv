@@ -1,8 +1,8 @@
 #!/usr/bin/env ruby
- 
+
 require 'rubygems'
 require 'redcarpet'
- 
+
 class CVRenderer < Redcarpet::Render::HTML
 
   def doc_header
@@ -17,7 +17,7 @@ class CVRenderer < Redcarpet::Render::HTML
     <body>
     HTML
   end
- 
+
   def doc_footer
     <<-HTML.gsub /^\s+/, ""
     </body>
@@ -25,7 +25,7 @@ class CVRenderer < Redcarpet::Render::HTML
     HTML
   end
 end
- 
+
 def markdown(text)
   markdown = Redcarpet::Markdown.new(CVRenderer.new(),
     :tables              => true,
@@ -33,5 +33,5 @@ def markdown(text)
   )
   markdown.render(text);
 end
- 
+
 puts markdown(ARGF.read)
