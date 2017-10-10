@@ -130,7 +130,7 @@ PHP, MySQL, Javascript, HTML, CSS, Photoshop, Illustrator
 99% self taught, however:
 
 #### Hills Road Cambridge 6th Form College 2004 – 2006
-* A-level Computer Science - C
-* A-level Media Studies - C
-* A-level Psychology - C
-* A-level General Studies - C
+* A-level Computer Science
+* A-level Media Studies
+* A-level Psychology
+* A-level General Studies
