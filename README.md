@@ -1,22 +1,22 @@
-**Last updated:** 8th June 2017
+**Last updated:** 15th October 2017
 ***
 
 James Lewis Harries
 ========
-**Location:** London, UK | **Email:** <james@vaicine.com> | **Web:** [vaicine.com](http://www.vaicine.com) | **Github:** [github.com/vaicine](http://www.github.com/vaicine)
+**Location:** London, UK | **Email:** <james@vaicine.com> | **Web:** [vaicine.com](http://www.vaicine.com) | **Git:** [git.com/vaicine](http://www.git.com/vaicine)
 
 &nbsp;
 ## Technologies I'm currently using
 ***
-| Backend                | Frontend                              | Tools
+| Back-end                | Front-End                              | Tools
 | ---------------------- | ------------------------------------- | -------- 
-| Ruby, Ruby On Rails    | HTML5, Slim, ERB                      | Github, SVN
-| Elixir, Pheonix        | CSS, SASS, SCSS, LESS                 | vim, emacs, Atom 
-| Node, Python           | Javascript, ES6, Coffeescript, jQuery | Mac OS, Linux
-| Postgres, MySQL, Redis | Jasmine, Brunch, Grunt                | Heroku
-| RSpec, Capybara        | Bootstrap, Foundation                 | CircleCI
-| Elasticsearch          | Responsive design                     | Photoshop, Illustrator
-|                        | Mobile app/web design                 | 
+| Ruby, Ruby On Rails    | HTML5, Slim, ERB                      | Git
+| Elixir, Pheonix        | CSS, SASS, SCSS, LESS                 | vim, emacs 
+| Node, Python           | Javascript, ES6, Coffeescript, Elm    | Mac OS, Linux
+| Postgres, MySQL, Redis | Angular, React, Vue.js                | Heroku, AWS
+| RSpec, Capybara        | Jasmine, Brunch, Grunt, Gulp          | CircleCI
+| Elasticsearch          | Bootstrap, Foundation, Bulma          | Photoshop, Illustrator
+|                        | Responsive design                     | 
 
 &nbsp;
 ## Past experience
@@ -25,46 +25,48 @@ James Lewis Harries
 #### Buyapowa - Senior UX Developer/Product Engineer
 **July 2015 - Present**
 
-* Building the Buyapowa platform
+* Building and improving upon the services that make up the Buyapowa platform
+* Building back office systems used to service Buyapowa clients
+* Developing front facing web apps integrated in client websites
+* Building and maintaining API interfaces used by clients
 
-**Skills/technologies used:**
-Continuous Integration, Github, Ruby on Rails, Elixir, Phoenix, Node, Javascript, ES6, Coffeescript, jQuery, HTML5, Slim, CSS3, SASS, LESS, Postgres, RSpec, Jasmine, Capybara, REST, Heroku, Photoshop, Illustrator, Responsive design, Agile, Kanban, Scrum, Pair Programming, AB Testing
+**Skills/technologies:**
+Ruby on Rails, Elixir, Phoenix, Javascript, CoffeeScript, Node, ES6, jQuery, HTML5, Slim, CSS3, SASS, LESS, Postgres, RSpec, Capybara, Jasmine, Heroku, AWS, Photoshop, Illustrator, Git, Continuous Integration, Responsive design, Agile, Kanban, Scrum, Pair Programming, AB Testing
 
 ***
 
-#### Lean Software Factory - Software Engineer
+#### Lean Software Factory/Factory3 - Software Engineer
 **June 2013 - July 2015** - *(2 years, 2 months)*
 
-* Full stack software development working on external and internal projects
+* Full stack software development working on various internal and client projects
+* Building back office CRM systems and front facing web apps
+* Developing iOS and Android apps
 
-**Skills/technologies used:**
-Continuous Integration, Github, Ruby on Rails, Node, Javascript, Coffeescript, AJAX, jQuery, HTML5, HAML, Slim, CSS3, SASS, Compass, MongoDB, Mysql, RSpec, Jasmine, Capybara, REST, SOAP, Heroku, Engineyard, Nginx, Photoshop, Illustrator, Responsive design, Agile, Kanban, Scrum 
+**Skills/technologies:**
+Ruby on Rails, RubyMotion, Node, Javascript, Coffeescript, jQuery, Ionic, Angular, HTML5, HAML, Slim, CSS3, SASS, Compass, MongoDB, Mysql, RSpec, Jasmine, Capybara, REST, SOAP, Heroku, Engineyard, Nginx, Photoshop, Illustrator, Continuous Integration, Git, Responsive design, Agile, Kanban, Scrum 
 
 ***
 
 #### Kelkoo UK/Kelisto ES - Software Engineer
 **May 2012 - June 2013** - *(1 year, 1 month)*
 
-* Managing the technical aspects surrounding the creation and development of new online businesses, including frontend and backend coding of website and web services.
-
+* Building new online businesses, including front-end and back-end coding of websites and web services
 * Taking ownership of business intelligence/analytics, technical monitoring and maintenance
-
-* Building bespoke internal monitoring systems and dashboards, using external API feeds from services such as mixpanel, mongoHQ, github, tddium, heroku, and others.
-
+* Building internal monitoring systems and dashboards using external API feeds
 * Managing a small technical team, including hiring, building technical strategies, managing resources and allocating work
 
-**Skills/technologies used:**
-Continuous Integration, Github, Ruby On Rails, Javascript, Coffeescript, AJAX, jQuery, Jade, Backbone.js, HTML5, HAML, CSS3, SASS, Compass, Postgres, Redis, Mongodb, RSpec, Jasmine, Cucumber, Capybara, Selenium, REST, SOAP, Heroku, Nginx, Photoshop, Illustrator, Flash, Responsive design, Pair programming, Agile, Kanban, Scrum, AB Testing
+**Skills/technologies:**
+Ruby On Rails, Javascript, Coffeescript, AJAX, jQuery, Backbone.js, Jade, HTML5, HAML, CSS3, SASS, Compass, Postgres, Redis, MongoDB, RSpec, Jasmine, Cucumber, Capybara, Selenium, REST/SOAP, Heroku, Nginx, Photoshop, Illustrator, Flash, Continuous Integration, Git, Responsive design, Pair programming, Agile, Kanban, Scrum, AB Testing
 
 ***
 
 #### Airlock (Leo Burnett) - Creative Developer
 **Jan 2012 - May 2012** - *(5 months contract)*
 
-* Frontend and backend development on responsive websites such as the Renault TV website (renault.tv)
+* Front-end and back-end development of responsive websites
 
-**Skills/technologies used:**
-Github, PHP, MySQL, Javascript, AJAX, jQuery, HTML5, CSS3, SASS, Compass, XML, XSLT, XPATH, REST, Apache, Responsive design, Agile, Scrum
+**Skills/technologies:**
+PHP, MySQL, Javascript, AJAX, jQuery, HTML5, CSS3, SASS, Compass, XML, XSLT, XPATH, REST, Apache, Git, Responsive design, Agile, Scrum
 
 ***
 
@@ -72,62 +74,62 @@ Github, PHP, MySQL, Javascript, AJAX, jQuery, HTML5, CSS3, SASS, Compass, XML, X
 **Mar 2010 - Dec 2011** - *(1 year, 10 months)*
 
 * Overseeing all design of company software, websites, online advertising and print media
-* Frontend and backend development on consumer facing websites and interactive desktop and mobile web portals
+* Front-end and back-end development on consumer facing websites and desktop and mobile web apps
 * Designing iPad & iPhone apps, Windows & Mac Software GUI
 * Designing print material for software packaging boxes and newspaper & magazine adverts
-* Producing ϐlash and static marketing material to promote own brand and top level clients
+* Producing flash and static marketing material to promote own brand and client integrations
 
-**Skills/technologies used:**
-SVN, PHP, MVC.NET, Javascript, AJAX, jQuery, Prototype, HTML5, CSS3, MySQL, SOAP, Photoshop, Illustrator, Flash, Agile, Scrum
+**Skills/technologies:**
+PHP, .NET, Javascript, jQuery, HTML5, CSS3, MySQL, SOAP, Photoshop, Illustrator, Flash, SVN, Agile, Scrum
 
 ***
 
 #### BeatThatQuote LTD (Google) - Web Developer
 **Mar 2009 - Mar 2010** - *(1 year)*
 
-* Front end development and design work on whitelabel client websites 
-* Developing back end systems to power BeatThatQuote websites
+* Front-end development and design work on whitelabel client websites 
+* Developing back-end systems to power BeatThatQuote websites
 * Producing flash and static marketing material to promote own brand and clients brand
 
-**Skills/technologies used:**
-Ruby on Rails, PHP, Javascript, XML, AJAX, jQuery, HTML, CSS, MySQL, REST, SOAP, Nginx, RSpec, Capybara, Photoshop, Illustrator, Flash
+**Skills/technologies:**
+Ruby on Rails, PHP, Javascript, jQuery, HTML, CSS, MySQL, REST/SOAP, Nginx, Photoshop, Illustrator, Flash, Git
 
 ***
 
 #### Thru Ltd - Web Developer
 **Jul 2008 - Mar 2009** - *(9 months)*
 
-* Frontend and backend development work on socially orientated web apps, as well as work on facebook applications and other social tools
+* Front-end and back-end development work on social media related web apps, as well as work on facebook apps and other social tools
 
-**Skills/technologies used:**
-Github, PHP, Javascript, AJAX, jQuery, HTML, CSS, MySQL, Photoshop, Illustrator, Agile, Scrum
+**Skills/technologies:**
+PHP, Javascript, jQuery, HTML, CSS, MySQL, Photoshop, Illustrator, Git, Agile, Scrum
 
 ***
 
-#### Contract web development for multiple clients
+#### Contract web development for various clients/travelling
 **Oct 2007 - Jun 2008** - *(8 months)*
 
-* Managing all aspects of building client websites including product management, billing clients, technical architecture and dev ops
-* Frontend and backend development of CMS driven client websites
+* Building client websites including development, product management, technical architecture and dev ops
+* Front-end and back-end development of CMS driven client websites
 
-**Skills/technologies used:**
-Github, PHP, MySQL, Javascript, jQuery, HTML, CSS, Photoshop, Illustrator
+**Skills/technologies:**
+PHP, Javascript, jQuery, HTML, CSS, MySQL, Photoshop, Illustrator, Git
 
 ***
 
 #### Catalink UK Ltd - Web Developer
 **Sept 2006 - Sept 2007** - *(1 year)*
 
-* Backend and frontend development on Catalink consumer facing websites, as well as maintence of backend systems.
+* Back-end and front-end development on Catalink consumer facing websites, as well as maintence of back-end systems
 
-**Skills/technologies used:**
-PHP, MySQL, Javascript, HTML, CSS, Photoshop, Illustrator
+**Skills/technologies:**
+PHP, Javascript, HTML, CSS, MySQL, Photoshop, Illustrator
 
 &nbsp;
 ## Education
 ***
 
-99% self taught, however:
+99% self taught through personal study. However, formal education includes:
 
 #### Hills Road Cambridge 6th Form College 2004 – 2006
 * A-level Computer Science
