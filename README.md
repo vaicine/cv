@@ -3,7 +3,7 @@
 
 James Lewis Harries
 ========
-**Location:** London, UK | **Email:** <james@vaicine.com> | **Web:** [vaicine.com](http://www.vaicine.com) | **Git:** [git.com/vaicine](http://www.git.com/vaicine)
+**Location:** London, UK | **Email:** <james@vaicine.com> | **Web:** [vaicine.com](http://www.vaicine.com) | **Github:** [github.com/vaicine](http://www.github.com/vaicine)
 
 &nbsp;
 ## Technologies I'm currently using
