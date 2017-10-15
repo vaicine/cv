@@ -1,4 +1,4 @@
-**Last updated:** 15th October 2017
+**Last updated:** 15th October 2017 | [Download as PDF](http://vaicine.github.io/cv/james-harries-cv.pdf)
 ***
 
 James Lewis Harries
