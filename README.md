@@ -8,7 +8,7 @@ James Lewis Harries
 &nbsp;
 ## Technologies I'm currently using
 ***
-| Back-end                | Front-End                              | Tools
+| Backend                | Front-End                              | Tools
 | ---------------------- | ------------------------------------- | -------- 
 | Ruby, Ruby On Rails    | HTML5, Slim, ERB                      | Git
 | Elixir, Pheonix        | CSS, SASS, SCSS, LESS                 | vim, emacs 
@@ -50,7 +50,7 @@ Ruby on Rails, RubyMotion, Node, Javascript, Coffeescript, jQuery, Ionic, Angula
 #### Kelkoo UK/Kelisto ES - Software Engineer
 **May 2012 - June 2013** - *(1 year, 1 month)*
 
-* Building new online businesses, including front-end and back-end coding of websites and web services
+* Building new online businesses, including front-end and backend coding of websites and web services
 * Taking ownership of business intelligence/analytics, technical monitoring and maintenance
 * Building internal monitoring systems and dashboards using external API feeds
 * Managing a small technical team, including hiring, building technical strategies, managing resources and allocating work
@@ -63,7 +63,7 @@ Ruby On Rails, Javascript, Coffeescript, AJAX, jQuery, Backbone.js, Jade, HTML5,
 #### Airlock (Leo Burnett) - Creative Developer
 **Jan 2012 - May 2012** - *(5 months contract)*
 
-* Front-end and back-end development of responsive websites
+* Front-end and backend development of responsive websites
 
 **Skills/technologies:**
 PHP, MySQL, Javascript, AJAX, jQuery, HTML5, CSS3, SASS, Compass, XML, XSLT, XPATH, REST, Apache, Git, Responsive design, Agile, Scrum
@@ -74,7 +74,7 @@ PHP, MySQL, Javascript, AJAX, jQuery, HTML5, CSS3, SASS, Compass, XML, XSLT, XPA
 **Mar 2010 - Dec 2011** - *(1 year, 10 months)*
 
 * Overseeing all design of company software, websites, online advertising and print media
-* Front-end and back-end development on consumer facing websites and desktop and mobile web apps
+* Front-end and backend development on consumer facing websites and desktop and mobile web apps
 * Designing iPad & iPhone apps, Windows & Mac Software GUI
 * Designing print material for software packaging boxes and newspaper & magazine adverts
 * Producing flash and static marketing material to promote own brand and client integrations
@@ -88,7 +88,7 @@ PHP, .NET, Javascript, jQuery, HTML5, CSS3, MySQL, SOAP, Photoshop, Illustrator,
 **Mar 2009 - Mar 2010** - *(1 year)*
 
 * Front-end development and design work on whitelabel client websites 
-* Developing back-end systems to power BeatThatQuote websites
+* Developing backend systems to power BeatThatQuote websites
 * Producing flash and static marketing material to promote own brand and clients brand
 
 **Skills/technologies:**
@@ -99,7 +99,7 @@ Ruby on Rails, PHP, Javascript, jQuery, HTML, CSS, MySQL, REST/SOAP, Nginx, Phot
 #### Thru Ltd - Web Developer
 **Jul 2008 - Mar 2009** - *(9 months)*
 
-* Front-end and back-end development work on social media related web apps, as well as work on facebook apps and other social tools
+* Front-end and backend development work on social media related web apps, as well as work on facebook apps and other social tools
 
 **Skills/technologies:**
 PHP, Javascript, jQuery, HTML, CSS, MySQL, Photoshop, Illustrator, Git, Agile, Scrum
@@ -110,7 +110,7 @@ PHP, Javascript, jQuery, HTML, CSS, MySQL, Photoshop, Illustrator, Git, Agile, S
 **Oct 2007 - Jun 2008** - *(8 months)*
 
 * Building client websites including development, product management, technical architecture and dev ops
-* Front-end and back-end development of CMS driven client websites
+* Front-end and backend development of CMS driven client websites
 
 **Skills/technologies:**
 PHP, Javascript, jQuery, HTML, CSS, MySQL, Photoshop, Illustrator, Git
@@ -120,7 +120,7 @@ PHP, Javascript, jQuery, HTML, CSS, MySQL, Photoshop, Illustrator, Git
 #### Catalink UK Ltd - Web Developer
 **Sept 2006 - Sept 2007** - *(1 year)*
 
-* Back-end and front-end development on Catalink consumer facing websites, as well as maintence of back-end systems
+* Backend and front-end development on Catalink consumer facing websites, as well as maintence of backend systems
 
 **Skills/technologies:**
 PHP, Javascript, HTML, CSS, MySQL, Photoshop, Illustrator
