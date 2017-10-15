@@ -34,4 +34,9 @@ def markdown(text)
   markdown.render(text);
 end
 
-puts markdown(ARGF.read)
+markdown = File.open("README.md")
+html = markdown(markdown.read)
+
+File.write("index.html", html)
+
+puts "Done!"
