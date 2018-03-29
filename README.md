@@ -1,4 +1,4 @@
-**Last updated:** 15th October 2017 | [Download as PDF](http://vaicine.github.io/cv/james-harries-cv.pdf)
+**Last updated:** 29th March 2018 | [Download as PDF](http://vaicine.github.io/cv/james-harries-cv.pdf)
 ***
 
 James Lewis Harries
@@ -8,22 +8,21 @@ James Lewis Harries
 &nbsp;
 ## Technologies I'm currently using
 ***
-| Backend                | Front-End                              | Tools
-| ---------------------- | ------------------------------------- | -------- 
-| Ruby, Ruby On Rails    | HTML5, Slim, ERB                      | Git
-| Elixir, Pheonix        | CSS, SASS, SCSS, LESS                 | vim, emacs 
-| Node, Python           | Javascript, ES6, Coffeescript, Elm    | Mac OS, Linux
-| Postgres, MySQL, Redis | Angular, React, Vue.js                | Heroku, AWS
-| RSpec, Capybara        | Jasmine, Brunch, Grunt, Gulp          | CircleCI
-| Elasticsearch          | Bootstrap, Foundation, Bulma          | Photoshop, Illustrator
-|                        | Responsive design                     | 
+| Backend                 | Front-end                              | Tools
+| ----------------------- | ------------------------------------- | --------
+| Ruby, Ruby On Rails     | HTML5, Slim, ERB                      | Git
+| Elixir, Pheonix         | CSS, SASS, SCSS, LESS                 | vim, emacs
+| Python, Node            | Javascript, ES6, Coffeescript         | Mac OS, Linux
+| Postgres, MySQL, Redis  | React, Vue.js                         | Heroku, AWS
+| RSpec, Capybara, ExUnit | Jest, Jasmine, Brunch, Grunt, Webpack | CircleCI
+| Elasticsearch           | Bootstrap, Foundation, Bulma          | Photoshop, Illustrator
 
 &nbsp;
 ## Past experience
 ***
 
 #### Buyapowa - Senior UX Developer/Product Engineer
-**July 2015 - Present**
+**July 2015 - February 2018** - *(2 years, 7 months)*
 
 * Building and improving upon the services that make up the Buyapowa platform
 * Building back office systems used to service Buyapowa clients
@@ -31,7 +30,7 @@ James Lewis Harries
 * Building and maintaining API interfaces used by clients
 
 **Skills/technologies:**
-Ruby on Rails, Elixir, Phoenix, Javascript, CoffeeScript, Node, ES6, jQuery, HTML5, Slim, CSS3, SASS, LESS, Postgres, RSpec, Capybara, Jasmine, Heroku, AWS, Photoshop, Illustrator, Git, Continuous Integration, Responsive design, Agile, Kanban, Scrum, Pair Programming, AB Testing
+Ruby on Rails, Elixir, Phoenix, Javascript, CoffeeScript, Node, ES6, jQuery, Grunt, Brunch, Webpack, HTML5, Slim, CSS3, SASS, LESS, Postgres, RSpec, Capybara, ExUnit, Jest, Jasmine, Heroku, AWS, Photoshop, Illustrator, Git, Continuous Integration, Responsive design, Agile, Kanban, Scrum, Pair Programming, AB Testing
 
 ***
 
