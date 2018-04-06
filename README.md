@@ -8,14 +8,14 @@ James Lewis Harries
 &nbsp;
 ## Technologies I'm currently using
 ***
-| Backend                 | Front-end                              | Tools
-| ----------------------- | ------------------------------------- | --------
-| Ruby, Ruby On Rails     | HTML5, Slim, ERB                      | Git
-| Elixir, Pheonix         | CSS, SASS, SCSS, LESS                 | vim, emacs
-| Python, Node            | Javascript, ES6, Coffeescript         | Mac OS, Linux
-| Postgres, MySQL, Redis  | React, Vue.js                         | Heroku, AWS
-| RSpec, Capybara, ExUnit | Jest, Jasmine, Brunch, Grunt, Webpack | CircleCI
-| Elasticsearch           | Bootstrap, Foundation, Bulma          | Photoshop, Illustrator
+| Backend                 | Front-end                             | Tools                  |
+| ----------------------- | ------------------------------------- | --------               |
+| Ruby, Ruby On Rails     | HTML5, Slim, ERB                      | Git                    |
+| Elixir, Pheonix         | CSS, SASS, SCSS, LESS                 | vim, emacs             |
+| Python, Node            | Javascript, ES6, Nodejs, Coffeescript | Mac OS, Linux          |
+| Postgres, MySQL, Redis  | React, Redux, Vue.js, Vuex            | Heroku, AWS            |
+| RSpec, Capybara, ExUnit | Jest, Jasmine, Brunch, Grunt, Webpack | CircleCI               |
+| Elasticsearch           | Bootstrap, Foundation, Bulma          | Photoshop, Illustrator |
 
 &nbsp;
 ## Past experience
@@ -30,7 +30,7 @@ James Lewis Harries
 * Building and maintaining API interfaces used by clients
 
 **Skills/technologies:**
-Ruby on Rails, Elixir, Phoenix, Javascript, CoffeeScript, Node, ES6, jQuery, Grunt, Brunch, Webpack, HTML5, Slim, CSS3, SASS, LESS, Postgres, RSpec, Capybara, ExUnit, Jest, Jasmine, Heroku, AWS, Photoshop, Illustrator, Git, Continuous Integration, Responsive design, Agile, Kanban, Scrum, Pair Programming, AB Testing
+Ruby on Rails, Elixir, Phoenix, Javascript, CoffeeScript, Nodejs, ES6, Vue.js, Vuex, React, Redux, jQuery, Grunt, Brunch, Webpack, HTML5, Slim, CSS3, SASS, LESS, Postgres, RSpec, Capybara, ExUnit, Jest, Jasmine, Heroku, AWS, Photoshop, Illustrator, Git, Continuous Integration, Responsive design, Agile, Kanban, Scrum, Pair Programming, AB Testing
 
 ***
 
