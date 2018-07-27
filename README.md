@@ -10,7 +10,7 @@ James Lewis Harries
 ***
 | Backend                 | Front-end                             | Tools                  |
 | ----------------------- | ------------------------------------- | --------               |
-| Ruby, Ruby On Rails     | HTML5, Slim, ERB                      | Git                    |
+| Ruby, Ruby On Rails     | HTML5, Slim, Haml, ERB                | Git                    |
 | Elixir, Pheonix         | CSS, SASS, SCSS, LESS                 | vim, emacs             |
 | Python, Node            | Javascript, ES6, Nodejs, Coffeescript | Mac, Linux             |
 | Postgres, MySQL, Redis  | React, Redux, Vue.js, Vuex            | Heroku, AWS            |
