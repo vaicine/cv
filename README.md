@@ -8,32 +8,34 @@ James Lewis Harries
 &nbsp;
 ## Technologies I'm currently using
 ***
-| Backend                 | Front-end                             | Tools                  |
-| ----------------------- | ------------------------------------- | --------               |
-| Ruby, Ruby On Rails     | HTML5, Slim, Haml, ERB                | Git                    |
-| Elixir, Pheonix         | CSS, SASS, SCSS, LESS                 | vim, emacs             |
-| Python, Node            | Javascript, ES6, Nodejs, Coffeescript | Mac, Linux             |
-| Postgres, MySQL, Redis  | React, Redux, Vue.js, Vuex            | Heroku, AWS            |
-| RSpec, Capybara, ExUnit | Jest, Jasmine, Brunch, Grunt, Webpack | CircleCI               |
-| Elasticsearch           | Bootstrap, Foundation, Bulma          | Photoshop, Illustrator |
+| Backend                 | Front-end                                 | Tools                  |
+| ----------------------- | ----------------------------------------- | ---------------------- |
+| Ruby, Ruby On Rails     | HTML5, Slim, Haml, ERB                    | Git                    |
+| Elixir, Pheonix         | CSS, SASS, SCSS, LESS                     | vim, emacs             |
+| Python, Node            | Javascript, ES6, Typescript, Coffeescript | Mac, Linux             |
+| Postgres, MySQL, Redis  | React, Redux, Vue.js, Vuex                | Heroku, AWS            |
+| RSpec, Capybara, ExUnit | Jest, Jasmine, Brunch, Grunt, Webpack     | CircleCI               |
+| Elasticsearch           | Bootstrap, Foundation, Bulma              | Photoshop, Illustrator |
 
 &nbsp;
 ## Past experience
 ***
 
-#### StorIQ - Head of Development/Senior Engineer
+#### StorIQ - Head of Development/Lead developer
 **February 2018 - Present** *(6 months)*
 
 StorIQ provide a SaaS backend and mobile app that allow their clients to manage and optimise their retail shops. The service is used every day globally by retailers in 14 languages across 30 countries.
 
 * Full stack development on all StorIQ products
 * Overseeing all technical management of the company
-* Managing the product as well as the managing the tech
-* Project and resource management
+* Managing and defining the product as well as the managing the tech team
+* Project and tech resource management
 * Defining a hiring process and building an in house team
 
 **Skills/technologies:**
-Ruby on Rails, Javascript, CoffeeScript, jQuery, HTML5, Haml, CSS3, SASS, MySQL, RSpec, Capybara, AWS, Cloud66, Git, TDD, Continuous Integration, Agile, Kanban, Pair Programming
+Ruby on Rails, Javascript, CoffeeScript, ES6, Typescript, React, Redux, Webpack, jQuery, HTML5, Haml, CSS3, SASS, MySQL, RSpec, Capybara, Jest, AWS, Cloud66, Git, TDD, Continuous Integration, Agile, Kanban, Pair Programming
+
+***
 
 #### Buyapowa - Senior UX Developer/Product Engineer
 **July 2015 - February 2018** - *(2 years, 7 months)*
@@ -44,6 +46,7 @@ Buyapowa provider a referral marketing platform for many big name clients. The p
 * Building back office systems used to service Buyapowa clients
 * Developing front facing web apps integrated in client websites
 * Building and maintaining API interfaces used by clients
+* Building BI and analytical reporting systems to help optimize client performance
 
 **Skills/technologies:**
 Ruby on Rails, Elixir, Phoenix, Javascript, CoffeeScript, Nodejs, ES6, Vue.js, Vuex, React, Redux, jQuery, Grunt, Brunch, Webpack, HTML5, Slim, CSS3, SASS, LESS, Postgres, Elasticsearch, RSpec, Capybara, ExUnit, Jest, Jasmine, Heroku, AWS, Photoshop, Illustrator, Git, TDD, Continuous Integration, Responsive design, Agile, Kanban, Scrum, Pair Programming, AB Testing
@@ -60,7 +63,7 @@ Factory3 is a digital agency that work with startups to enterprise customers to 
 * Developing iOS and Android apps
 
 **Skills/technologies:**
-Ruby on Rails, RubyMotion, Node, Javascript, Coffeescript, jQuery, Ionic, Angular, HTML5, HAML, Slim, CSS3, SASS, Compass, MongoDB, Mysql, RSpec, Jasmine, Capybara, REST, SOAP, Heroku, Engineyard, Nginx, Photoshop, Illustrator, TDD, Continuous Integration, Git, Responsive design, Agile, Kanban, Scrum 
+Ruby on Rails, RubyMotion, Node, Javascript, Coffeescript, jQuery, Ionic, Angular, HTML5, HAML, Slim, CSS3, SASS, Compass, MongoDB, Mysql, RSpec, Jasmine, Capybara, REST, SOAP, Heroku, Engineyard, Nginx, Photoshop, Illustrator, TDD, Continuous Integration, Git, Responsive design, Agile, Kanban, Scrum
 
 ***
 
@@ -110,7 +113,7 @@ PHP, .NET, Javascript, jQuery, HTML5, CSS3, MySQL, SOAP, Photoshop, Illustrator,
 
 BeatThatQuote was a financial price comparison website that was bought by Google.
 
-* Front-end development and design work on whitelabel client websites 
+* Front-end development and design work on whitelabel client websites
 * Developing backend systems to power BeatThatQuote websites
 * Producing flash and static marketing material to promote own brand and clients brand
 
