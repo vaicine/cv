@@ -11,10 +11,10 @@ blockquote {
     padding: 0;
 }
 body {
-    font-family: "Helvetica Neue", Helvetica, "Hiragino Sans GB", Arial, sans-serif;
+    font-family: PT Serif, "Helvetica Neue", Helvetica, "Hiragino Sans GB", Arial, sans-serif;
     font-size: 13px;
     line-height: 18px;
-    color: #737373;
+    color: #262626;
     background-color: white;
     margin: 10px 13px 10px 13px;
 }
@@ -23,13 +23,13 @@ table {
   border-collapse: collapse;
   width:100%;
 }
-td,th { 
+td,th {
   text-align:left;
   border: 1px solid #ddd;
   padding: 3px 10px;
 }
 th {
-  padding: 5px 10px;  
+  padding: 5px 10px;
 }
 
 a {

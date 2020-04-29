@@ -1,4 +1,4 @@
-**Last updated:** 8th August 2018 | [Download as PDF](http://vaicine.github.io/cv/james-harries-cv.pdf)
+**Last updated:** 29th April 2020 | [Download as PDF](http://vaicine.github.io/cv/james-harries-cv.pdf)
 ***
 
 James Lewis Harries
@@ -6,23 +6,39 @@ James Lewis Harries
 **Location:** London, UK | **Email:** <james@vaicine.com> | **Web:** [vaicine.com](http://www.vaicine.com) | **Github:** [github.com/vaicine](http://www.github.com/vaicine)
 
 &nbsp;
-## Technologies I'm currently using
+## Technologies I'm currently focusing on
 ***
-| Backend                 | Front-end                                 | Tools                  |
-| ----------------------- | ----------------------------------------- | ---------------------- |
-| Ruby, Ruby On Rails     | HTML5, Slim, Haml, ERB                    | Git                    |
-| Elixir, Pheonix         | CSS, SASS, SCSS, LESS                     | vim, emacs             |
-| Python, Node            | Javascript, ES6, Typescript, Coffeescript | Mac, Linux             |
-| Postgres, MySQL, Redis  | React, Redux, Vue.js, Vuex                | Heroku, AWS            |
-| RSpec, Capybara, ExUnit | Jest, Jasmine, Brunch, Grunt, Webpack     | CircleCI               |
-| Elasticsearch           | Bootstrap, Foundation, Bulma              | Photoshop, Illustrator |
+| Backend                 | Front-end                       | Tools                   |
+| ----------------------- | ------------------------------- | ----------------------- |
+| Node, Elixir, Python    | ES6, Typescript                 | Git                     |
+| Ruby, Ruby On Rails     | React, Redux                    | vim, emacs              |
+| Postgres, MySQL, Redis  | styled-system, postcss, emotion | Heroku, AWS, Serverless |
+| RSpec, ExUnit           | Gatsbyjs, Chakra                | Jenkins, Terraform      |
 
 &nbsp;
 ## Past experience
 ***
 
+
+#### Simply Business - Engineering Lead
+**November 2018 - Present** *(1 year, 6 months)*
+
+Simply Business is a business insurance broker that provides a customer experience from providing a massive knowledge base of information to businesses, through to purchasing insurance directly through Simply Business, to supporting and retaining those customers throughout the life of the business.
+
+* Full stack development on a wide range of products
+* Migrated a large legacy application to a modern tech stack
+* Built multiple restful backend services to support a statically generated front-end
+* Lead the technical strategy and delivery of 2 cross functional product teams
+* Directly line managed 8 engineers, including mentoring a Makers Academy apprentice engineer
+* Involved in engineering recruitment, including interviewing and producing recruitment marketing resources
+
+**Skills/technologies**
+Ruby on Rails, Sinatra, ES6, CSS, emotion, styled-system, postcss, React, Gatsbyjs, Mongodb, RSpec, Jest, Python, AWS, Serverless, Terraform, Jenkins, Kafka, Git, TDD, DDD, Event driven programming, Continuous Integration, Agile, Scrum, Pair Programming
+
+***
+
 #### StorIQ - Head of Development/Lead developer
-**February 2018 - Present** *(6 months)*
+**February 2018 - November 2018** *(10 months)*
 
 StorIQ provide a SaaS backend and mobile app that allow their clients to manage and optimise their retail shops. The service is used every day globally by retailers in 14 languages across 30 countries.
 
@@ -156,10 +172,13 @@ An online catalogue empire.
 PHP, Javascript, HTML, CSS, MySQL, Photoshop, Illustrator
 
 &nbsp;
-## Education
+## Education and training
 ***
 
-99% self taught through personal study. However, formal education includes:
+* 3 day management training workshop - [Hemsley Fraser](https://www.hemsleyfraser.co.uk)
+* 1 day management resilience training workshop - [Hemsley Fraser](https://www.hemsleyfraser.co.uk)
+* 1 day public Speaking training workshop - [The Method](https://www.the-method.com)
+* 1 day Rapid Software Testing Management training workshop - [Satisfice by James Bach](https://www.satisfice.com)
 
 #### Hills Road Cambridge 6th Form College 2004 – 2006
 * A-level Computer Science
