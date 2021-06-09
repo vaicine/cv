@@ -1,4 +1,4 @@
-**Last updated:** 29th April 2020 | [Download as PDF](http://vaicine.github.io/cv/james-harries-cv.pdf)
+**Last updated:** 10th April 2021 | [Download as PDF](http://vaicine.github.io/cv/james-harries-cv.pdf)
 ***
 
 James Lewis Harries
@@ -6,34 +6,50 @@ James Lewis Harries
 **Location:** London, UK | **Email:** <james@vaicine.com> | **Web:** [vaicine.com](http://www.vaicine.com) | **Github:** [github.com/vaicine](http://www.github.com/vaicine)
 
 &nbsp;
-## Technologies I'm currently focusing on
+## Tech I'm interested in working with
 ***
-| Backend                 | Front-end                       | Tools                   |
-| ----------------------- | ------------------------------- | ----------------------- |
-| Node, Elixir, Python    | ES6, Typescript                 | Git                     |
-| Ruby, Ruby On Rails     | React, Redux                    | vim, emacs              |
-| Postgres, MySQL, Redis  | styled-system, postcss, emotion | Heroku, AWS, Serverless |
-| RSpec, ExUnit           | Gatsbyjs, Chakra                | Jenkins, Terraform      |
+| Backend                 | Front-end                       |
+| ----------------------- | ------------------------------- |
+| Node, Elixir, Pheonix   | ES6, Typescript                 |
+| Serverless, Go, Rust    | React, Nextjs                   |
+| NewSQL, Postgres        | styled-system, postcss, emotion |
+| ExUnit                  | Cypress, Jest, RTL              |
 
 &nbsp;
-## Past experience
+## Work experience
 ***
 
+#### Palace Skateboards - Lead Engineer
+**October 2020 - Present** *(7 months)*
+
+Palace Skateboards is a London based fashion brand. New products are released in "drops** every friday morning, with demand often outweighing supply and items being sold out in minutes.
+
+* Full stack development on internal products and tools
+* Built a new system to allow product designers to collaborate in real time during the product development lifecycle
+* Worked on integrating external services to enable scaling of operations
+* Bug fixes and maintenance on legacy systems
+* Mapped out current system architecture and created technical roadmap
+
+**Skills/technologies**
+
+Elixir, Pheonix, Ecto, ExUnit, GraphQL, Absinthe, Postgresql, Typescript, ES6, React, Next.js, Chakra, Styled System, emotion, Jest, React testing library, Cypress, Ruby, Sinatra, RSpec
+
+***
 
 #### Simply Business - Engineering Lead
-**November 2018 - Present** *(1 year, 6 months)*
+**November 2018 - October 2020** *(1 year, 11 months)*
 
-Simply Business is a business insurance broker that provides a customer experience from providing a massive knowledge base of information to businesses, through to purchasing insurance directly through Simply Business, to supporting and retaining those customers throughout the life of the business.
+Simply Business is a fintech business insurance broker that provides a customer experience from providing a massive knowledge base of information to businesses, through to purchasing insurance directly through Simply Business, to supporting and retaining those customers throughout the life of the business.
 
 * Full stack development on a wide range of products
 * Migrated a large legacy application to a modern tech stack
 * Built multiple restful backend services to support a statically generated front-end
 * Lead the technical strategy and delivery of 2 cross functional product teams
-* Directly line managed 8 engineers, including mentoring a Makers Academy apprentice engineer
+* Directly career managed 8 engineers, including mentoring a Makers Academy apprentice engineer
 * Involved in engineering recruitment, including interviewing and producing recruitment marketing resources
 
 **Skills/technologies**
-Ruby on Rails, Sinatra, ES6, CSS, emotion, styled-system, postcss, React, Gatsbyjs, Mongodb, RSpec, Jest, Python, AWS, Serverless, Terraform, Jenkins, Kafka, Git, TDD, DDD, Event driven programming, Continuous Integration, Agile, Scrum, Pair Programming
+Ruby on Rails, Sinatra, ES6, CSS, emotion, styled-system, postcss, React, Gatsbyjs, Mongodb, RSpec, Jest, Python, AWS, Serverless, Terraform, Jenkins, Kafka, Git, TDD, DDD, Event driven programming, Continuous Integration, Agile/Scrum, Pair Programming
 
 ***
 
@@ -49,7 +65,7 @@ StorIQ provide a SaaS backend and mobile app that allow their clients to manage 
 * Defining a hiring process and building an in house team
 
 **Skills/technologies:**
-Ruby on Rails, Javascript, CoffeeScript, ES6, Typescript, React, Redux, Webpack, jQuery, HTML5, Haml, CSS3, SASS, MySQL, RSpec, Capybara, Jest, AWS, Cloud66, Git, TDD, Continuous Integration, Agile, Kanban, Pair Programming
+Ruby on Rails, Javascript, CoffeeScript, ES6, Typescript, React, Redux, Webpack, jQuery, HTML5, Haml, CSS3, SASS, MySQL, RSpec, Capybara, Jest, AWS, Cloud66, Git, TDD, Continuous Integration, Agile/Kanban, Pair Programming
 
 ***
 
@@ -65,7 +81,7 @@ Buyapowa provider a referral marketing platform for many big name clients. The p
 * Building BI and analytical reporting systems to help optimize client performance
 
 **Skills/technologies:**
-Ruby on Rails, Elixir, Phoenix, Javascript, CoffeeScript, Nodejs, ES6, Vue.js, Vuex, React, Redux, jQuery, Grunt, Brunch, Webpack, HTML5, Slim, CSS3, SASS, LESS, Postgres, Elasticsearch, RSpec, Capybara, ExUnit, Jest, Jasmine, Heroku, AWS, Photoshop, Illustrator, Git, TDD, Continuous Integration, Responsive design, Agile, Kanban, Scrum, Pair Programming, AB Testing
+Ruby on Rails, Elixir, Phoenix, Javascript, CoffeeScript, Nodejs, ES6, Vue.js, Vuex, React, Redux, jQuery, Grunt, Brunch, Webpack, HTML5, Slim, CSS3, SASS, LESS, Postgres, Elasticsearch, RSpec, Capybara, ExUnit, Jest, Jasmine, Heroku, AWS, Photoshop, Illustrator, Git, TDD, Continuous Integration, Responsive design, Agile/Kanban, Pair Programming, AB Testing
 
 ***
 
@@ -79,7 +95,7 @@ Factory3 is a digital agency that work with startups to enterprise customers to 
 * Developing iOS and Android apps
 
 **Skills/technologies:**
-Ruby on Rails, RubyMotion, Node, Javascript, Coffeescript, jQuery, Ionic, Angular, HTML5, HAML, Slim, CSS3, SASS, Compass, MongoDB, Mysql, RSpec, Jasmine, Capybara, REST, SOAP, Heroku, Engineyard, Nginx, Photoshop, Illustrator, TDD, Continuous Integration, Git, Responsive design, Agile, Kanban, Scrum
+Ruby on Rails, RubyMotion, Node, Javascript, Coffeescript, jQuery, Ionic, Angular, HTML5, HAML, Slim, CSS3, SASS, Compass, MongoDB, Mysql, RSpec, Jasmine, Capybara, REST, SOAP, Heroku, Engineyard, Nginx, Photoshop, Illustrator, TDD, Continuous Integration, Git, Responsive design, Agile/Kanban
 
 ***
 
@@ -94,11 +110,11 @@ Kelisto.es is financial price comparison website built for the Spanish market as
 * Managing a small technical team, including hiring, building technical strategies, managing resources and allocating work
 
 **Skills/technologies:**
-Ruby On Rails, Javascript, Coffeescript, AJAX, jQuery, Backbone.js, Jade, HTML5, HAML, CSS3, SASS, Compass, Postgres, Redis, MongoDB, RSpec, Jasmine, Cucumber, Capybara, Selenium, REST/SOAP, Heroku, Nginx, Photoshop, Illustrator, Flash, Continuous Integration, Git, Responsive design, TDD, Pair programming, Agile, Kanban, Scrum, AB Testing
+Ruby On Rails, Javascript, Coffeescript, jQuery, Backbone.js, Jade, HTML5, HAML, CSS3, SASS, Compass, Postgres, Redis, MongoDB, RSpec, Jasmine, Cucumber, Capybara, Selenium, REST/SOAP, Heroku, Nginx, Photoshop, Illustrator, Flash, Continuous Integration, Git, Responsive design, TDD, Pair programming, Agile/Kanban, AB Testing
 
 ***
 
-#### Airlock (Leo Burnett) - Creative Developer
+#### Airlock (Leo Burnett) - Software Engineer
 **Jan 2012 - May 2012** - *(5 months contract)*
 
 Leo Burnett is a world renowned creative agency, working with massive clients on ambitious projects (I worked on a project for Renault while here)
@@ -106,7 +122,7 @@ Leo Burnett is a world renowned creative agency, working with massive clients on
 * Front-end and backend development of responsive websites
 
 **Skills/technologies:**
-PHP, MySQL, Javascript, AJAX, jQuery, HTML5, CSS3, SASS, Compass, XML, XSLT, XPATH, REST, Apache, Git, Responsive design, Agile, Scrum
+PHP, MySQL, Javascript, AJAX, jQuery, HTML5, CSS3, SASS, Compass, XML, XSLT, XPATH, REST, Apache, Git, Responsive design, Agile/Kanban
 
 ***
 
@@ -120,7 +136,7 @@ PHP, MySQL, Javascript, AJAX, jQuery, HTML5, CSS3, SASS, Compass, XML, XSLT, XPA
 * Producing flash and static marketing material to promote own brand and client integrations
 
 **Skills/technologies:**
-PHP, .NET, Javascript, jQuery, HTML5, CSS3, MySQL, SOAP, Photoshop, Illustrator, Flash, SVN, Agile, Scrum
+PHP, .NET, Javascript, jQuery, HTML5, CSS3, MySQL, SOAP, Photoshop, Illustrator, Flash, SVN, Agile/Kanban
 
 ***
 
@@ -166,7 +182,7 @@ PHP, Javascript, jQuery, HTML, CSS, MySQL, Photoshop, Illustrator, Git
 
 An online catalogue empire.
 
-* Backend and front-end development on Catalink consumer facing websites, as well as maintence of backend systems
+* Backend and front-end development on Catalink consumer facing websites, as well as maintenance of backend systems
 
 **Skills/technologies:**
 PHP, Javascript, HTML, CSS, MySQL, Photoshop, Illustrator
